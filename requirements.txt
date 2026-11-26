@@ -1,0 +1,5 @@
+vkbottle==4.11.0
+loguru
+uvloop
+orjson
+aiohttp
